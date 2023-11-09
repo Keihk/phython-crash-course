@@ -1,3 +1,3 @@
 # phython-crash-course
 #
-# Thank you for visiting my phython-crash-course repository.
+# 👋 Hi, I’m @Keihk! Thank you for your visiting my GitHub repository.
